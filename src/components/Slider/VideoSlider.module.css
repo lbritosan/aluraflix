@@ -1,0 +1,14 @@
+/* index.css */
+.slick-prev, .slick-next {
+    color: #00baff;
+    z-index: 1;
+  }
+  
+  .slick-dots li button:before {
+    color: #00baff;
+  }
+  
+  .slick-dots li.slick-active button:before {
+    color: #0093cc;
+  }
+  
